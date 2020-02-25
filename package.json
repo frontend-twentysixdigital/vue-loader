@@ -1,5 +1,5 @@
 {
-  "name": "vue-loader",
+  "name": "@frontend-twentysixdigital/dsa-vue-loader",
   "version": "15.9.0",
   "description": "Vue single-file component loader for Webpack",
   "main": "lib/index.js",
@@ -18,10 +18,10 @@
   "bugs": {
     "url": "https://github.com/vuejs/vue-loader/issues"
   },
-  "homepage": "https://github.com/vuejs/vue-loader",
+  "homepage": "https://github.com/frontend-twentysixdigital/vue-loader",
   "repository": {
     "type": "git",
-    "url": "https://github.com/vuejs/vue-loader.git"
+    "url": "https://github.com/frontend-twentysixdigital/vue-loader.git"
   },
   "gitHooks": {
     "pre-commit": "lint-staged"
