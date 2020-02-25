@@ -1,5 +1,5 @@
 {
-  "name": "@frontend-twentysixdigital/dsa-vue-loader",
+  "name": "@frontend-twentysixdigital/vue-loader-dsa",
   "version": "15.9.0",
   "description": "Vue single-file component loader for Webpack",
   "main": "lib/index.js",
